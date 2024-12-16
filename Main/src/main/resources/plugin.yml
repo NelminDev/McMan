@@ -1,0 +1,7 @@
+name: McMan
+description: MacMan is an Modular Server System
+author: Nelmin
+website: https://nelmin.dev/mcman
+version: '1.0.0'
+main: dev.nelmin.mcman.McMan
+api-version: '1.21'
