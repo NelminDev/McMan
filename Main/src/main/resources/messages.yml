@@ -1,0 +1,17 @@
+# You can preview your messages here:
+# https://codepen.io/jakubkucera99/pen/RrVzxZ
+
+syntax_format:
+  - "&8&l&m----------&r &8&l[&r&fSyntax&8&l]&r &8&l&m----------&r"
+  - "&a&lCommand &8&l»&r &f%command%"
+  - "&a&lArguments &8&l»&r &f%args%"
+  - "&a&lExample &8&l»&r &f%example%"
+  - "&8&l&m----------&r &8&l[&r&fSyntax&8&l]&r &8&l&m----------&r"
+
+error:
+  no:
+    permission: "You do not have enough permissions to do that!"
+    player: "Only a player can execute this command!"
+    player_found:
+      name: "No player with the name &c&l%player%&r was found!"
+      uuid: "No player with the uuid &c&l%player%&r was found!"

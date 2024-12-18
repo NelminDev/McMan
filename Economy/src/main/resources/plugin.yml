@@ -1,0 +1,10 @@
+name: McMan Economy
+description: Economy Module for McMan
+author: Nelmin
+website: https://nelmin.dev/mcman
+version: ${project.version}
+main: dev.nelmin.mcman.McMan-Economy
+api-version: '1.21'
+depend:
+  - McMan
+  - Vault

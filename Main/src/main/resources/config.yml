@@ -1,0 +1,17 @@
+# This is the configuration file for nControl - Server System
+# This configuration file and every other config file is hand made by NelminDev
+#
+# IMPORTANT: Only edit the values, that means everything after an ":" except when there is nothing.
+
+prefix: "&a&lMcMan &8&l»&r"
+
+# How should the Player Data be saved? YAML? MySQL? SQLITE?
+data:
+  type: YAML # Currently Supported Types: YAML
+  # SOON
+  # username: ""
+  # password: ""
+  # database:
+  #   name: ""
+  #   url: ""
+  #   port: 3306

@@ -6,7 +6,7 @@
 
     <groupId>dev.nelmin.mcman</groupId>
     <artifactId>Main</artifactId>
-    <version>0.0.1-ALPHA</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Main</name>
@@ -58,6 +58,7 @@
                 <filtering>true</filtering>
             </resource>
         </resources>
+        <finalName>McMan-${project.artifactId}</finalName>
     </build>
 
     <repositories>
